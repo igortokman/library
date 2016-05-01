@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "IgorTokman <igortokman1994@ukr.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/IgorTokman/library",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1"
+  }
+}
